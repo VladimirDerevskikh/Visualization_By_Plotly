@@ -17,8 +17,8 @@ Unfortunately for now it's not possible to display such big files in GitHub as m
 
 And finally - here are the requirements to Python version and packages necessary for those who wants to run this code on their machines.
 
-Python version: 3.7.4
+The following is to be installed to run this code:
 
-Packages to be installed:
-Pandas version: 0.25.1
-Plotly version: 4.5.2
+Python: version 3.7.4 <br>
+Pandas: version: 0.25.1 <br>
+Plotly: version: 4.5.2
