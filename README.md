@@ -20,5 +20,5 @@ And finally - here are the requirements to Python version and packages necessary
 The following is to be installed to run this code:
 
 Python: version 3.7.4 <br>
-Pandas: version: 0.25.1 <br>
-Plotly: version: 4.5.2
+Pandas: version 0.25.1 <br>
+Plotly: version 4.5.2
