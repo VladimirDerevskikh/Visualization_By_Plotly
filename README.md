@@ -20,7 +20,5 @@ And finally - here are the requirements to Python version and packages necessary
 Python version: 3.7.4
 
 Packages to be installed:
-
 Pandas version: 0.25.1
-
 Plotly version: 4.5.2
